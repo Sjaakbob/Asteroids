@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\..\..\..\Desktop\mg1a-zombie\Assets\PlayerScript.cs">
+    <Files>
+      <File FileName="..\..\..\..\Desktop\mg1a-zombie\Assets\BloodRemover.cs" Line="10" Column="1" />
+      <File FileName="..\..\..\..\Desktop\mg1a-zombie\Assets\PlayerScript.cs" Line="5" Column="2" />
+      <File FileName="Assets\ShootBullet.cs" Line="12" Column="3" />
+      <File FileName="Assets\PlayerMovement.cs" Line="23" Column="3" />
+      <File FileName="Assets\AsteroidSpawn.cs" Line="10" Column="19" />
+      <File FileName="Assets\RemoveBullet.cs" Line="9" Column="29" />
+      <File FileName="Assets\AsteroidDamage.cs" Line="5" Column="1" />
+      <File FileName="Assets\UpWall.cs" Line="7" Column="17" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
